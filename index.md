@@ -1,13 +1,13 @@
 # SceneBuddy Privacy Policy
 
-**Last updated:** [DATE]
+**Last updated:** 9/10/2026
 
 SceneBuddy is an iOS app that reads your scene partners' lines aloud so you
 can rehearse alone. This policy explains what the app collects, where it
 goes, and how to delete it.
 
 SceneBuddy is made by an individual developer, not a company. Contact:
-[YOUR EMAIL].
+scenebuddysupport@gmail.com.
 
 ---
 
@@ -121,4 +121,4 @@ changes will be noted in the app.
 
 ## Questions
 
-Email [YOUR EMAIL].
+Email scenebuddysupport@gmail.com.
