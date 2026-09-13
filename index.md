@@ -7,7 +7,7 @@ can rehearse alone. This policy explains what the app collects, where it
 goes, and how to delete it.
 
 CuePartner is made by an individual developer, not a company. Contact:
-CuePartnersupport@gmail.com.
+cuepartnersupport@gmail.com.
 
 ---
 
@@ -121,4 +121,4 @@ changes will be noted in the app.
 
 ## Questions
 
-Email CuePartnersupport@gmail.com.
+Email cuepartnersupport@gmail.com.
