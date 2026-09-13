@@ -1,13 +1,13 @@
-# SceneBuddy Privacy Policy
+# CuePartner Privacy Policy
 
 **Last updated:** 9/10/2026
 
-SceneBuddy is an iOS app that reads your scene partners' lines aloud so you
+CuePartner is an iOS app that reads your scene partners' lines aloud so you
 can rehearse alone. This policy explains what the app collects, where it
 goes, and how to delete it.
 
-SceneBuddy is made by an individual developer, not a company. Contact:
-scenebuddysupport@gmail.com.
+CuePartner is made by an individual developer, not a company. Contact:
+CuePartnersupport@gmail.com.
 
 ---
 
@@ -107,7 +107,7 @@ servers, because we have no way to know the app was removed.
 
 ## Children
 
-SceneBuddy is not directed at children under 13 and we do not knowingly
+CuePartner is not directed at children under 13 and we do not knowingly
 collect information from them.
 
 ---
@@ -121,4 +121,4 @@ changes will be noted in the app.
 
 ## Questions
 
-Email scenebuddysupport@gmail.com.
+Email CuePartnersupport@gmail.com.
